@@ -8,6 +8,7 @@ Business Around the World is video game made for the FBLA Middle School Video Ga
 - Art was made in [Pixilart](https://www.pixilart.com/).
 - [Griffpatch's](https://www.youtube.com/@griffpatch) score and text engine tutorials were really helpful.
 - [TurboWarp](https://turbowarp.org/) allowed us to convert Scratch coding to javascript and to an HTML file.
+- Music was made with [Musescore](https://musescore.org/en).
 
 # Bibliography
 - Ann Stewart Zachwieja. (2017). US Business Etiquette | Business Culture US | Globig. Globig.co. https://globig.co/blog/a-quick-guide-to-business-etiquette-in-the-united-states/
